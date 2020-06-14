@@ -5,10 +5,7 @@ Uses Variational Bayes for finding posteriors for neural network parameters.
 
 Requires following packages:
 
-\item PyTorch
-Pyro
-Numpy
-Matplotlib
+PyTorch,Pyro,Numpy,Matplotlib
 
 The Bayesian Modelling method allows the Neural Network to approximate posterior probability for the weights. 
 In the training/optimizing step the true posterior is approximated using the distribution given by parameter values and is used 
