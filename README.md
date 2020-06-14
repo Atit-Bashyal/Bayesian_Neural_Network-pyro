@@ -5,7 +5,7 @@ Uses Variational Bayes for finding posteriors for neural network parameters.
 
 Requires following packages:
 
-PyTorch
+\item PyTorch
 Pyro
 Numpy
 Matplotlib
